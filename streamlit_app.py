@@ -36,7 +36,7 @@ h1, h2, h3 {
 """, unsafe_allow_html=True)
 
 # Load actual Excel dataset
-file_path = Path("sales_data.xlsx")
+file_path = Path("sales_analysis.xlsx")
 
 st.title("📊 Retail Business Intelligence")
 st.caption("Retail Sales Performance | Python • Pandas • Streamlit • Plotly")
